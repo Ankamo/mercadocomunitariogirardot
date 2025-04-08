@@ -15,11 +15,11 @@ export default function Footer() {
                 <div className="flex flex-col items-center">
                     <h3 className="font-semibold text-lg mb-3">Enlaces Rápidos</h3>
                     <ul className="space-y-2 text-blue-400">
-                        <li><a href="#">Términos y Condiciones</a></li>
-                        <li><a href="#">Política de Privacidad</a></li>
-                        <li><a href="#">Sobre el Mercado Comunitario</a></li>
-                        <li><a href="#">Sobre la Corporación</a></li>
-                        <li><a href="#">Contacto</a></li>
+                        <li><a href="/terminos">Términos y Condiciones</a></li>
+                        <li><a href="/privacidad">Política de Privacidad</a></li>
+                        <li><a href="/mercado">Sobre el Mercado Comunitario</a></li>
+                        <li><a href="/corporacion">Sobre la Corporación</a></li>
+                        <li><a href="/contacto">Contacto</a></li>
                     </ul>
                 </div>
 
