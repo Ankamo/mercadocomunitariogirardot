@@ -1,0 +1,50 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Miel Natural",
+        "descripcion": "Frasco de 500ml de miel 100% pura.",
+        "precio": 18000,
+        "descuento": 10,
+        "precioConDescuento": 16200,
+        "imagen": "/productos/miel.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Café Orgánico",
+        "descripcion": "Café molido de la región.",
+        "precio": 15000,
+        "descuento": 10,
+        "precioConDescuento": 13000,
+        "imagen": "/productos/cafe.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/productos/artesania.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/productos/artesania.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/productos/artesania.jpg"
+      }
+    ]
+  }
+  
