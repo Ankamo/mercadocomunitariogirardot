@@ -63,6 +63,8 @@ export default function TiendaVirtualPage() {
                 />
                 <h3 className="font-semibold text-lg mb-1">{producto.nombre}</h3>
                 <p className="text-sm mb-1">{producto.descripcion}</p>
+                <p className="text-sm mb-1">Local: {producto.local}</p>
+                <p className="text-sm mb-1">Proveedor: {producto.proveedor}</p>
                 {producto.descuento > 0 ? (
                   <>
                     <p className="text-sm text-gray-500 line-through">

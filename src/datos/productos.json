@@ -7,7 +7,9 @@
         "precio": 18000,
         "descuento": 10,
         "precioConDescuento": 16200,
-        "imagen": "/productos/miel.jpg"
+        "imagen": "/logo.webp",
+        "local": 101,
+        "proveedor": "Apicultores Unidos"
       },
       {
         "id": 2,
@@ -16,7 +18,9 @@
         "precio": 15000,
         "descuento": 10,
         "precioConDescuento": 13000,
-        "imagen": "/productos/cafe.jpg"
+        "imagen": "/logo.webp",
+        "local": 102,
+        "proveedor": "Cafeteros del Sur"
       },
       {
         "id": 3,
@@ -25,7 +29,9 @@
         "precio": 25000,
         "descuento": 20,
         "precioConDescuento": 20000,
-        "imagen": "/productos/artesania.jpg"
+        "imagen": "/logo.webp",
+        "local": 103,
+        "proveedor": "Artesanos del Bosque"
       },
       {
         "id": 4,
@@ -34,7 +40,9 @@
         "precio": 25000,
         "descuento": 20,
         "precioConDescuento": 20000,
-        "imagen": "/productos/artesania.jpg"
+        "imagen": "/logo.webp",
+        "local": 103,
+        "proveedor": "Artesanos del Bosque"
       },
       {
         "id": 5,
@@ -43,8 +51,119 @@
         "precio": 25000,
         "descuento": 20,
         "precioConDescuento": 20000,
-        "imagen": "/productos/artesania.jpg"
+        "imagen": "/logo.webp",
+        "local": 103,
+        "proveedor": "Artesanos del Bosque"
+      },
+      {
+        "id": 6,
+        "nombre": "Jabón Artesanal",
+        "descripcion": "Jabón hecho a mano con ingredientes naturales.",
+        "precio": 8000,
+        "descuento": 5,
+        "precioConDescuento": 7600,
+        "imagen": "/logo.webp",
+        "local": 104,
+        "proveedor": "Natural Care"
+      },
+      {
+        "id": 7,
+        "nombre": "Queso Campesino",
+        "descripcion": "Queso fresco producido localmente.",
+        "precio": 12000,
+        "descuento": 0,
+        "precioConDescuento": 12000,
+        "imagen": "/logo.webp",
+        "local": 105,
+        "proveedor": "Lácteos del Campo"
+      },
+      {
+        "id": 8,
+        "nombre": "Pan Integral",
+        "descripcion": "Pan artesanal con semillas.",
+        "precio": 6000,
+        "descuento": 10,
+        "precioConDescuento": 5400,
+        "imagen": "/logo.webp",
+        "local": 106,
+        "proveedor": "Panadería Saludable"
+      },
+      {
+        "id": 9,
+        "nombre": "Mermelada de Fresa",
+        "descripcion": "Mermelada casera sin conservantes.",
+        "precio": 10000,
+        "descuento": 15,
+        "precioConDescuento": 8500,
+        "imagen": "/logo.webp",
+        "local": 107,
+        "proveedor": "Delicias Caseras"
+      },
+      {
+        "id": 10,
+        "nombre": "Frutas Deshidratadas",
+        "descripcion": "Mezcla de frutas deshidratadas.",
+        "precio": 15000,
+        "descuento": 10,
+        "precioConDescuento": 13500,
+        "imagen": "/logo.webp",
+        "local": 108,
+        "proveedor": "Frutos Secos Gourmet"
+      },
+      {
+        "id": 11,
+        "nombre": "Aceite de Coco",
+        "descripcion": "Aceite de coco orgánico.",
+        "precio": 20000,
+        "descuento": 5,
+        "precioConDescuento": 19000,
+        "imagen": "/logo.webp",
+        "local": 109,
+        "proveedor": "Coco Natural"
+      },
+      {
+        "id": 12,
+        "nombre": "Velas Aromáticas",
+        "descripcion": "Velas hechas a mano con esencias naturales.",
+        "precio": 10000,
+        "descuento": 10,
+        "precioConDescuento": 9000,
+        "imagen": "/logo.webp",
+        "local": 110,
+        "proveedor": "Aromas y Velas"
+      },
+      {
+        "id": 13,
+        "nombre": "Té de Hierbas",
+        "descripcion": "Infusión de hierbas naturales.",
+        "precio": 7000,
+        "descuento": 0,
+        "precioConDescuento": 7000,
+        "imagen": "/logo.webp",
+        "local": 111,
+        "proveedor": "Hierbas del Valle"
+      },
+      {
+        "id": 14,
+        "nombre": "Chocolate Artesanal",
+        "descripcion": "Chocolate oscuro hecho a mano.",
+        "precio": 12000,
+        "descuento": 10,
+        "precioConDescuento": 10800,
+        "imagen": "/logo.webp",
+        "local": 112,
+        "proveedor": "Chocolatería Fina"
+      },
+      {
+        "id": 15,
+        "nombre": "Bolso de Yute",
+        "descripcion": "Bolso ecológico hecho de yute.",
+        "precio": 25000,
+        "descuento": 15,
+        "precioConDescuento": 21250,
+        "imagen": "/logo.webp",
+        "local": 113,
+        "proveedor": "Eco Bolsos"
       }
     ]
   }
-  
