@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 // Define los metadatos de la página
 export const metadata: Metadata = {
-  title: "Mercado Comunitario Rosa Blanca",
-  description: "Tienda Virtual Mercado Comunitario Rosa Blanca",
+  title: "Mercado Comunitario Girardot",
+  description: "Tienda Virtual Mercado Comunitario Girardot",
 };
 
 // Componente RootLayout que envuelve toda la aplicación
