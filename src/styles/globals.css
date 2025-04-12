@@ -1,8 +1,18 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-naranja: #F28C38;
+  --color-verde: #6DA34D;
+  --color-marron: #5B3E2B;
+  --color-amarillo: #F4C95D;
+  --color-beige: #F8F3EC;
+
+  --background: #F8F3EC; /* beige claro para un fondo suave */
+  --foreground: #3B2B23; /* negro café para el texto */
+
+  --accent-primary: var(--color-naranja);
+  --accent-secondary: var(--color-verde);
+  --accent-highlight: var(--color-amarillo);
 }
 
 @theme inline {
@@ -16,6 +26,10 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+
+    --accent-primary: #F4C95D;   /* cambia naranja por amarillo para resaltar mejor en fondo oscuro */
+    --accent-secondary: #6DA34D;
+    --accent-highlight: #F28C38;
   }
 }
 

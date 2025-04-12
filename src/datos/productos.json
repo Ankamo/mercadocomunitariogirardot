@@ -9,7 +9,7 @@
         "precioConDescuento": 16200,
         "imagen": "/logo.webp",
         "local": 101,
-        "proveedor": "Apicultores Unidos"
+        "vivanderos": "Apicultores Unidos"
       },
       {
         "id": 2,
@@ -20,7 +20,7 @@
         "precioConDescuento": 13000,
         "imagen": "/logo.webp",
         "local": 102,
-        "proveedor": "Cafeteros del Sur"
+        "vivanderos": "Cafeteros del Sur"
       },
       {
         "id": 3,
@@ -31,7 +31,7 @@
         "precioConDescuento": 20000,
         "imagen": "/logo.webp",
         "local": 103,
-        "proveedor": "Artesanos del Bosque"
+        "vivanderos": "Artesanos del Bosque"
       },
       {
         "id": 4,
@@ -42,7 +42,7 @@
         "precioConDescuento": 20000,
         "imagen": "/logo.webp",
         "local": 103,
-        "proveedor": "Artesanos del Bosque"
+        "vivanderos": "Artesanos del Bosque"
       },
       {
         "id": 5,
@@ -53,7 +53,7 @@
         "precioConDescuento": 20000,
         "imagen": "/logo.webp",
         "local": 103,
-        "proveedor": "Artesanos del Bosque"
+        "vivanderos": "Artesanos del Bosque"
       },
       {
         "id": 6,
@@ -64,7 +64,7 @@
         "precioConDescuento": 7600,
         "imagen": "/logo.webp",
         "local": 104,
-        "proveedor": "Natural Care"
+        "vivanderos": "Natural Care"
       },
       {
         "id": 7,
@@ -75,7 +75,7 @@
         "precioConDescuento": 12000,
         "imagen": "/logo.webp",
         "local": 105,
-        "proveedor": "Lácteos del Campo"
+        "vivanderos": "Lácteos del Campo"
       },
       {
         "id": 8,
@@ -86,7 +86,7 @@
         "precioConDescuento": 5400,
         "imagen": "/logo.webp",
         "local": 106,
-        "proveedor": "Panadería Saludable"
+        "vivanderos": "Panadería Saludable"
       },
       {
         "id": 9,
@@ -97,7 +97,7 @@
         "precioConDescuento": 8500,
         "imagen": "/logo.webp",
         "local": 107,
-        "proveedor": "Delicias Caseras"
+        "vivanderos": "Delicias Caseras"
       },
       {
         "id": 10,
@@ -108,7 +108,7 @@
         "precioConDescuento": 13500,
         "imagen": "/logo.webp",
         "local": 108,
-        "proveedor": "Frutos Secos Gourmet"
+        "vivanderos": "Frutos Secos Gourmet"
       },
       {
         "id": 11,
@@ -119,7 +119,7 @@
         "precioConDescuento": 19000,
         "imagen": "/logo.webp",
         "local": 109,
-        "proveedor": "Coco Natural"
+        "vivanderos": "Vivanderos"
       },
       {
         "id": 12,
@@ -130,7 +130,7 @@
         "precioConDescuento": 9000,
         "imagen": "/logo.webp",
         "local": 110,
-        "proveedor": "Aromas y Velas"
+        "vivanderos": "Vivanderos"
       },
       {
         "id": 13,
@@ -141,7 +141,7 @@
         "precioConDescuento": 7000,
         "imagen": "/logo.webp",
         "local": 111,
-        "proveedor": "Hierbas del Valle"
+        "vivanderos": "Hierbas del Valle"
       },
       {
         "id": 14,
@@ -152,7 +152,7 @@
         "precioConDescuento": 10800,
         "imagen": "/logo.webp",
         "local": 112,
-        "proveedor": "Chocolatería Fina"
+        "vivanderos": "Chocolatería Fina"
       },
       {
         "id": 15,
@@ -163,7 +163,7 @@
         "precioConDescuento": 21250,
         "imagen": "/logo.webp",
         "local": 113,
-        "proveedor": "Eco Bolsos"
+        "vivanderos": "Eco Bolsos"
       }
     ]
   }

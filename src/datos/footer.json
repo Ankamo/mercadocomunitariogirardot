@@ -22,7 +22,7 @@
         }
     ],
     "contacto": {
-        "email": "mercadocomunitariorosablanca@gmail.com",
+        "email": "corporacionmercogirardot@gmail.com",
         "telefono": "(304) 347 0984",
         "direccion1": "Diagonal 33 con Carrera 12 A Esquina",
         "direccion2": "Barrio Rosa Blanca 1er sector",
@@ -52,7 +52,7 @@
     ],
     "creditos": {
         "desarrollador": "NextCode-Labs",
-        "administrador": "Corporación Rosa Blanca",
-        "copyright": "Mercado Comunitario Rosa Blanca. Todos los derechos reservados."
+        "administrador": "Corporación Mercado Comunitario Girardot",
+        "copyright": "Mercogir. Todos los derechos reservados."
     }
 }
