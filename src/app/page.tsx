@@ -1,9 +1,11 @@
+// pages/tienda-virtual.tsx
 "use client";
 import Image from "next/image";
 import Header from "@/components/header/page";
 import NavBar from "@/components/nav/page";
 import Footer from "@/components/footer/page";
 import productosData from "@/datos/productos.json";
+import Chat from "@/components/chat/page"; // Importar el componente de chat
 
 export default function TiendaVirtualPage() {
   const productos = productosData.productos;
@@ -14,8 +16,8 @@ export default function TiendaVirtualPage() {
       <Header />
       <NavBar />
 
-      <main className="flex-grow px-4 py-12 max-w-screen-xl mx-auto text-white">
-        {/* Barra de productos en descuento */}
+      <main className="flex-grow px-4 py-12 max-w-screen-xl mx-auto text-white relative">
+        {/* Productos en descuento */}
         {productosDescuento.length > 0 && (
           <section className="mb-12">
             <h2 className="text-2xl font-bold mb-4 text-yellow-400">🔥 En Descuento</h2>
@@ -45,7 +47,7 @@ export default function TiendaVirtualPage() {
           </section>
         )}
 
-        {/* Lista general de productos */}
+        {/* Lista de todos los productos */}
         <section>
           <h2 className="text-2xl font-bold mb-6">Todos los Productos</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
@@ -85,6 +87,9 @@ export default function TiendaVirtualPage() {
         </section>
       </main>
 
+      {/* Importa el componente de Chat */}
+      <Chat />
+      
       <Footer />
     </div>
   );
